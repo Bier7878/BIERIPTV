@@ -4,14 +4,27 @@ EXTM3U
 #EXTINF:-1 group-title="Movies(Nung)" tvg-logo="https://teevee-hd.com/img/ch5.png",1 CH5
 https://freeball95.com/D/M08535.mp4
 
-#EXTINF:-1 group-title="Movies(Nung)" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/c/c851e6c224b7b765e3291b0b98e1dacb.jpg",(2019) Maleficent : Mistress of Evil
-https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/8624b068082438ac297f707f5a5cbddf/8624b068082438ac297f707f5a5cbddf.m3u8
-
-#EXTINF:-1 group-title="Movies(Nung)" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/4/41d55424a6f5c1f8f6c3d3572a9b93ac.jpg",(2020) MulanMulan
+#EXTINF:-1 group-title="Movies(Nung2020)" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/4/41d55424a6f5c1f8f6c3d3572a9b93ac.jpg",(2020) Mulan
 https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/f5187765f33a2ddcbe6a5c67e5f5edea/f5187765f33a2ddcbe6a5c67e5f5edea.m3u8
 
-#EXTINF:-1 group-title="Movies(Nung)" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/8/836d2099b424756696730757872712bd.jpg ",(2020)Ava
+#EXTINF:-1 group-title="Movies(Nung2020)" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/8/836d2099b424756696730757872712bd.jpg ",(2020) Ava
 https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/b22a1622cd06b16ace33665d31b39cc9/b22a1622cd06b16ace33665d31b39cc9.m3u8
+
+#EXTINF:-1 group-title="Movies(Nung2019)" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/32cfde7b407a70680e765f54048f7b11.jpg",(2019) Rambo 5 : Last Blood
+https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/1b99365048fbfb39ab0fceec728b671f/1b99365048fbfb39ab0fceec728b671f.m3u8
+
+#EXTINF:-1 group-title="Movies(Nung2019)" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/c/c851e6c224b7b765e3291b0b98e1dacb.jpg",(2019) Maleficent : Mistress of Evil
+https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/8624b068082438ac297f707f5a5cbddf/8624b068082438ac297f707f5a5cbddf.m3u8
+
+#EXTINF:-1 group-title="Movies(Nung2020)" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/f/ffff169bd7e6c6c19c6bf3fa62be2c06.jpg",1(2020) Train to Busan Peninsula
+https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/11c85bee784426e2c3191a560d7ab22a/11c85bee784426e2c3191a560d7ab22a.m3u8
+
+#EXTINF:-1 group-title="Movies(Nung2019)" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/c/cf59932a6a8f67abbc8b2a342a39e040.png",(2019) Terminator 6 : Dark Fate
+https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/8c2813c8b043b4823558cfa496213b46/8c2813c8b043b4823558cfa496213b46.m3u8
+
+
+
+
 
 
 
