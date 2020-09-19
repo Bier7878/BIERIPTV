@@ -1,7 +1,7 @@
 EXTM3U
 
 
-#EXTINF:-1 group-title="Movies(Nung)" tvg-logo="https://teevee-hd.com/img/ch5.png",1 CH5
+#EXTINF:-1 group-title="Movies(Nung)" tvg-logo="https://www.img.in.th/image/hai3ql",TENGFEI
 https://freeball95.com/D/M08535.mp4
 
 #EXTINF:-1 group-title="Movies(Nung2020)" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/4/41d55424a6f5c1f8f6c3d3572a9b93ac.jpg",(2020) Mulan
@@ -16,12 +16,16 @@ https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.lived
 #EXTINF:-1 group-title="Movies(Nung2019)" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/c/c851e6c224b7b765e3291b0b98e1dacb.jpg",(2019) Maleficent : Mistress of Evil
 https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/8624b068082438ac297f707f5a5cbddf/8624b068082438ac297f707f5a5cbddf.m3u8
 
-#EXTINF:-1 group-title="Movies(Nung2020)" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/f/ffff169bd7e6c6c19c6bf3fa62be2c06.jpg",1(2020) Train to Busan Peninsula
+
+#EXTINF:-1 group-title="Movies(Nung2020)" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/f/ffff169bd7e6c6c19c6bf3fa62be2c06.jpg",(2020) Train to Busan Peninsula
 https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/11c85bee784426e2c3191a560d7ab22a/11c85bee784426e2c3191a560d7ab22a.m3u8
+
 
 #EXTINF:-1 group-title="Movies(Nung2019)" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/c/cf59932a6a8f67abbc8b2a342a39e040.png",(2019) Terminator 6 : Dark Fate
 https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/8c2813c8b043b4823558cfa496213b46/8c2813c8b043b4823558cfa496213b46.m3u8
 
+#EXTINF:-1 group-title="Movies(Nung2019)" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/9/981098f58dab70f5cac316480b19f72d.jpg",(2019) Fast & Furious Presents Hobbs & Shaw 
+https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/48a1bbf6ea1c67a0573f688fe45b4946/48a1bbf6ea1c67a0573f688fe45b4946.m3u8
 
 
 
